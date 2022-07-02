@@ -4,8 +4,8 @@
   "description": "Goalsetter app",
   "main": "server.js",
   "scripts": {
-    "start": "node backend/server.js",
-    "server": "node backend/server.js"
+    "start": "nodemon backend/server.js",
+    "server": "nodemon backend/server.js"
   },
   "author": "Brandon Creed",
   "license": "MIT",
